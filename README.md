@@ -1,2 +1,5 @@
-# memory_game
-This is my test of GitHub Pages
+# Memory game
+
+Here I'm testing GitHub Pages! :)
+
+Game -- 
